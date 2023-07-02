@@ -9,9 +9,9 @@
  * When user pressed delete button bottom sheet will always closed
  * Here is the Screen shot of Task Management App-
 
- <img src="https://github.com/mahamudhasan0/Task_Management/assets/72403684/47d5b2b0-7791-4ca4-965b-22ad350786b3" width="200">
- <img src="https://github.com/mahamudhasan0/Task_Management/assets/72403684/700239f8-2673-41a5-9765-bce8aa7065dd" width="200">
- <img src="https://github.com/mahamudhasan0/Task_Management/assets/72403684/1a817810-df5e-4bca-9e36-afea30bb0802" width="200">
+ <img src="https://github.com/mahamudhasan0/Task_Management/assets/72403684/47d5b2b0-7791-4ca4-965b-22ad350786b3" width="400">
+ <img src="https://github.com/mahamudhasan0/Task_Management/assets/72403684/700239f8-2673-41a5-9765-bce8aa7065dd" width="400">
+ <img src="https://github.com/mahamudhasan0/Task_Management/assets/72403684/1a817810-df5e-4bca-9e36-afea30bb0802" width="400">
  
 
 
